@@ -1,8 +1,8 @@
-// create a arrary
+// creating a arrary
 let errorArrary :string[] = ["A","B","C","D"];
 
-// producing error by accessing invalid index of arrary
+// producing error! by accessing invalid index of arrary
 // console.log(errorArrary[10]);
 
-// removed error
+// error removed 
 console.log(errorArrary[1]);
